@@ -1,6 +1,6 @@
 <script>
 import MenuLateral from "@/components/MenuLateral.vue";
-import BlocoCabecalho from "@/components/BloclCabecalho.vue"
+import BlocoCabecalho from "@/components/BlocoCabecalho.vue"
 
 export default {
   components: { MenuLateral, BlocoCabecalho },
